@@ -19,7 +19,6 @@ import java.util.Date;
 @NoArgsConstructor
 public class userOTPEntity
 {
-
     @Id
     private Long usrId;
 
